@@ -1,1 +1,4 @@
 /target/
+
+logs/normal_app.log
+logs/rolling/_app.log
